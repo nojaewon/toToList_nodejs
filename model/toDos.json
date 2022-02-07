@@ -1,0 +1,6 @@
+{
+    "thingsToDo" : [
+        {"id":1, "what":"json-server", "how":"youtube"},
+        {"id":2, "what":"node js express", "how":"youtube2"}
+    ]
+}
