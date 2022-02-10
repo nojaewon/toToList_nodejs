@@ -78,7 +78,7 @@ const template = {
                 <div id="content">
                     <form action="/submit" id="todo-form" method="post">
                         <label for="todo-item">할 일</label>
-                        <input type="text" id="todo-item" name="todo-item">
+                        <input type="text" id="todo-item" name="todo">
                         <button type="submit">SUBMIT</button>
                     </form>
                     
